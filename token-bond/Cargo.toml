@@ -1,0 +1,33 @@
+[package]
+name = "blockhouse-bond-contract"
+version = "1.0.0"
+authors = ["BlocktechBrew <tausif@blocktechbrew.com>"]
+edition = "2021"
+description = "Create a CW20 or token bond with fixed yield and maturity date"
+license = "Apache-2.0"
+repository = "https://bitbucket.org/codebrew_web/blockhouse_contracts"
+homepage = "https://blockhouse.capital"
+
+
+[lib]
+crate-type = ["cdylib", "rlib"]
+
+[features]
+backtraces = ["cosmwasm-std/backtraces"]
+# use library feature to disable all instantiate/execute/query exports
+library = []
+
+[dependencies]
+cosmwasm-schema = { version = "1.1.0" }
+cw-utils = "1.0.1"
+cw2 = { path = "./packages/cw2", version = "1.0.1" }
+cw20 = { path = "./packages/cw20", version = "1.0.1" }
+cw-storage-plus = "1.0.1"
+cosmwasm-std = { version = "1.1.0" }
+schemars = "0.8.1"
+semver = "1"
+serde = { version = "1.0.103", default-features = false, features = ["derive"] }
+thiserror = { version = "1.0.23" }
+
+[dev-dependencies]
+cw-multi-test = "0.16.1"

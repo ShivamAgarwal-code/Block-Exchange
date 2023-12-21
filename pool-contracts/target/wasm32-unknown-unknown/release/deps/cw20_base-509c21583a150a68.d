@@ -1,0 +1,15 @@
+/home/sandeep/Documents/cosmwasm/Playground/pool-contracts/target/wasm32-unknown-unknown/release/deps/cw20_base-509c21583a150a68.wasm: /home/sandeep/.cargo/registry/src/github.com-1ecc6299db9ec823/cw20-base-0.10.3/src/lib.rs /home/sandeep/.cargo/registry/src/github.com-1ecc6299db9ec823/cw20-base-0.10.3/src/allowances.rs /home/sandeep/.cargo/registry/src/github.com-1ecc6299db9ec823/cw20-base-0.10.3/src/contract.rs /home/sandeep/.cargo/registry/src/github.com-1ecc6299db9ec823/cw20-base-0.10.3/src/enumerable.rs /home/sandeep/.cargo/registry/src/github.com-1ecc6299db9ec823/cw20-base-0.10.3/src/error.rs /home/sandeep/.cargo/registry/src/github.com-1ecc6299db9ec823/cw20-base-0.10.3/src/msg.rs /home/sandeep/.cargo/registry/src/github.com-1ecc6299db9ec823/cw20-base-0.10.3/src/state.rs
+
+/home/sandeep/Documents/cosmwasm/Playground/pool-contracts/target/wasm32-unknown-unknown/release/deps/libcw20_base-509c21583a150a68.rlib: /home/sandeep/.cargo/registry/src/github.com-1ecc6299db9ec823/cw20-base-0.10.3/src/lib.rs /home/sandeep/.cargo/registry/src/github.com-1ecc6299db9ec823/cw20-base-0.10.3/src/allowances.rs /home/sandeep/.cargo/registry/src/github.com-1ecc6299db9ec823/cw20-base-0.10.3/src/contract.rs /home/sandeep/.cargo/registry/src/github.com-1ecc6299db9ec823/cw20-base-0.10.3/src/enumerable.rs /home/sandeep/.cargo/registry/src/github.com-1ecc6299db9ec823/cw20-base-0.10.3/src/error.rs /home/sandeep/.cargo/registry/src/github.com-1ecc6299db9ec823/cw20-base-0.10.3/src/msg.rs /home/sandeep/.cargo/registry/src/github.com-1ecc6299db9ec823/cw20-base-0.10.3/src/state.rs
+
+/home/sandeep/Documents/cosmwasm/Playground/pool-contracts/target/wasm32-unknown-unknown/release/deps/cw20_base-509c21583a150a68.d: /home/sandeep/.cargo/registry/src/github.com-1ecc6299db9ec823/cw20-base-0.10.3/src/lib.rs /home/sandeep/.cargo/registry/src/github.com-1ecc6299db9ec823/cw20-base-0.10.3/src/allowances.rs /home/sandeep/.cargo/registry/src/github.com-1ecc6299db9ec823/cw20-base-0.10.3/src/contract.rs /home/sandeep/.cargo/registry/src/github.com-1ecc6299db9ec823/cw20-base-0.10.3/src/enumerable.rs /home/sandeep/.cargo/registry/src/github.com-1ecc6299db9ec823/cw20-base-0.10.3/src/error.rs /home/sandeep/.cargo/registry/src/github.com-1ecc6299db9ec823/cw20-base-0.10.3/src/msg.rs /home/sandeep/.cargo/registry/src/github.com-1ecc6299db9ec823/cw20-base-0.10.3/src/state.rs
+
+/home/sandeep/.cargo/registry/src/github.com-1ecc6299db9ec823/cw20-base-0.10.3/src/lib.rs:
+/home/sandeep/.cargo/registry/src/github.com-1ecc6299db9ec823/cw20-base-0.10.3/src/allowances.rs:
+/home/sandeep/.cargo/registry/src/github.com-1ecc6299db9ec823/cw20-base-0.10.3/src/contract.rs:
+/home/sandeep/.cargo/registry/src/github.com-1ecc6299db9ec823/cw20-base-0.10.3/src/enumerable.rs:
+/home/sandeep/.cargo/registry/src/github.com-1ecc6299db9ec823/cw20-base-0.10.3/src/error.rs:
+/home/sandeep/.cargo/registry/src/github.com-1ecc6299db9ec823/cw20-base-0.10.3/src/msg.rs:
+/home/sandeep/.cargo/registry/src/github.com-1ecc6299db9ec823/cw20-base-0.10.3/src/state.rs:
+
+# env-dep:CARGO_PKG_VERSION=0.10.3
